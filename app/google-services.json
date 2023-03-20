@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092772131969",
+    "project_id": "flappybird2-e6513",
+    "storage_bucket": "flappybird2-e6513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092772131969:android:f11cc0da8aec7730f4c980",
+        "android_client_info": {
+          "package_name": "com.example.flappybird2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092772131969-c196adaa5lrqnuhnhvu0rb1eegealgps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv7BcwRq6yHoaLVEalRYCBpkcKxuECUno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092772131969-c196adaa5lrqnuhnhvu0rb1eegealgps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
